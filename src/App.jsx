@@ -4,7 +4,7 @@ import ProjectDashboard from './components/ProjectDashboard';
 import ProjectDetails from './components/ProjectDetails';
 import Login from './components/Login';
 import Register from './components/Register';
-import './app.css'
+import './App.css'
 import axiosInstance from './api/axios';
 
 function App() {
